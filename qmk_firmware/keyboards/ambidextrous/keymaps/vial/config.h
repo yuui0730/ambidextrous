@@ -7,8 +7,6 @@
 
 #define POINTING_DEVICE_INVERT_X
 #define POINTING_DEVICE_INVERT_Y
-POINTING_DEVICE_ROTATION_180    (Optional) Rotates the X and Y data by 180 degrees.    not defined
-
 #define POINTING_DEVICE_INVERT_X_RIGHT
 #define POINTING_DEVICE_INVERT_Y_RIGHT
 
